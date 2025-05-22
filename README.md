@@ -1,5 +1,7 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Md. Umair Abdullah</h1>
+<h1 align="center">
+  Hi 👋, I'm <a href="https://www.mdumairabdullah.com" target="_blank">Md. Umair Abdullah</a>
+</h1>
 <h3 align="center">🚀 A Passionate Technical Lead | Full Stack Developer | Cloud & DevOps Enthusiast from India 🇮🇳</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdumairabdullah&style=flat-square&color=64ffda" alt="Profile Views" />
@@ -16,7 +18,7 @@ I'm Md. Umair Abdullah, a passionate and innovative Technical Lead with over **5
   <a href="https://instagram.com/mdumairabdullah_786" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:connect.umair01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/umairabdullah10" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://t.me/mdumairabdullah" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/connect_umair" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://wa.me/918789403668" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
